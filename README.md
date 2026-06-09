@@ -18,7 +18,10 @@
 ```
 .
 ├── Fashion_MNIST_Classification.ipynb   # 完整代码（数据探索 → 训练 → 对比 → 可视化）
+├── Fashion_MNIST_Classification.html    # HTML 导出版本
 ├── fig_comparison.png                   # 四种方法准确率/F1/训练时间对比图
+├── requirements.txt
+├── LICENSE
 ├── .gitignore
 └── README.md
 ```

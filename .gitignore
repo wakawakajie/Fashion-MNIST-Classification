@@ -15,6 +15,13 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+~$*
+
+# LabMate
+.labmate/
+
+# 本地输出文件（不上传GitHub）
+本地输出文件/
 
 # Data (optional - large datasets)
 data/
