@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Claude
+.claude/
+
+# Python
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional - large datasets)
+data/
+*.pth
+*.h5
